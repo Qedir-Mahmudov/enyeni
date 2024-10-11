@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    height: 40px;
+    width: 100%;
+    justify-content: space-around;
+    border: 1px solid rgb(255, 255, 255);
+    align-items: center;
+
+}
+.navbarleft{
+color: rgb(111, 0, 255);
+}
+.navbarright{
+}
+
+
+
+#mainn{
+  
+}
+
+.container{
+    max-width: 1400px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.contaclass{
+    display: flex;
+    
+   
+}
+.contaleft{
+    height: 700px;
+    width: 50%;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.contaleftt{
+    /* margin-left: 190px; */
+}
+
+.design{
+    height: 20px;
+    background-image: linear-gradient(to bottom right, rgb(17, 0, 255), rgb(255, 0, 242));
+    width: 210px;
+    border: 1px solid rgb(141, 54, 141);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+
+.contadivs{
+    display: flex;
+    gap: 15px;
+    margin-top: 30px;
+}
+.divleft{
+    height: 25px;
+    width: 70px;
+    border: 1px solid rgb(128, 21, 150);
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+.divright{
+    height: 25px;
+    width: 70px;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+.contaright{
+    height: 700px;
+    width: 50%;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(33, 33, 182);
+    
+}
+img{
+    height: 700px;
+    width: 100%;
+}
+
+
+
+
+
+
+
+.conta2{
+    border: 1px solid rgb(255, 255, 255);
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(250, 253, 255);
+}
+
+.conta2divs{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.div1{
+    height: 30px;
+    width: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: blueviolet;
+}
+.div2{
+    height: 30px;
+    width: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: blueviolet;
+}
+.div3{
+    height: 30px;
+    width: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: blueviolet;
+}
+
+
+
+
+
+
+.footdiv{
+    display: flex;
+    justify-content: space-around;
+    height: 40px;
+    align-items: center;
+}
+.foot2{
+    display: flex;
+    gap: 10px;
+}
